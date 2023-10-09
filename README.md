@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**zidanabbas/zidanabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Zidane Abbas**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Front-End Developer**<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/zidane-abbas)ku ya.
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+### Technologies
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/zidanabbas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="www.linkedin.com/in/zidane-abbas">LinkedIn</a>
+- <a href="https://zidanabbas.vercel.app/">Zidane Abbas</a>
+- zidan.abbas28@gmail.com
+- <a href="https://twitter.com/zdnabbs">Twitter</a>
