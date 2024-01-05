@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Zidane Abbas**.<br>
 
-Saya seorang **Front-End Developer**<br>
+Saya adalah Fresh Graduate dan juga **Junior Front-End Developer**<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/zidane-abbas)ku ya.
 
